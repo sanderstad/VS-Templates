@@ -1,0 +1,3 @@
+[submodule "SSDT-With-tSQLt-Template"]
+	path = SSDT-With-tSQLt-Template
+	url = https://github.com/sanderstad/SSDT-With-tSQLt-Template.git
